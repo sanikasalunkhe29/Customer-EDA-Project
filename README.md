@@ -143,12 +143,17 @@ Overall, the project highlights how raw customer data can be transformed into us
 Add screenshots of:
 
 * Dataset Preview
-![Data Preview](image.png)
- ![Libraries](image-1.png)
-![](image-2.png)![](image-3.png)
-![](image-4.png)![](image-5.png)
-![](image-6.png)![](image-7.png)
-![Conclusion](image-8.png)
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f3978272-5da1-40a4-b9ba-3fb74c4da4e6" />
+<img width="1334" height="247" alt="image-1" src="https://github.com/user-attachments/assets/661cf04c-81ac-49a0-9e13-b504b6af8df4" />
+<img width="1292" height="414" alt="image-2" src="https://github.com/user-attachments/assets/c97c3064-7836-483c-8910-83ee652f18ce" />
+<img width="1366" height="720" alt="image-3" src="https://github.com/user-attachments/assets/ace1b9fa-2fb9-40f4-a542-f20f75c7366b" />
+<img width="1366" height="544" alt="image-4" src="https://github.com/user-attachments/assets/59508f0c-1a7e-447c-8b43-adad86058342" />
+<img width="1366" height="720" alt="image-5" src="https://github.com/user-attachments/assets/3c1c1fca-528c-4c5f-927f-835122f1fabe" />
+<img width="1366" height="720" alt="image-6" src="https://github.com/user-attachments/assets/ed2ee406-f32c-4103-90e1-1eea897b8283" />
+<img width="1366" height="720" alt="image-7" src="https://github.com/user-attachments/assets/aa06e35d-324f-4094-83f8-fd53fef7a18f" />
+<img width="1366" height="720" alt="image-8" src="https://github.com/user-attachments/assets/d150c900-c125-4ced-842f-1734e30072ba" />
+
+
 ---
 
 # 👨‍💻 Author
